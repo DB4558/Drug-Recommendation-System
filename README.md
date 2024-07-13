@@ -23,10 +23,9 @@ This project is a Drug Recommendation System built using Python, Natural Languag
    cd drug-recommendation-system
 2.**Open the Jupyter Notebook**
 
-```bash
-   jupyter notebook
+   ```bash
+      jupyter notebook
 
-3. **Run the Notebook**
-    Open the Drug_Recommendation_System.ipynb notebook and run all cells to train the model and get recommendations.
+Open the Drug_Recommendation_System.ipynb notebook and run all cells to train the model and get recommendations.
 
 
