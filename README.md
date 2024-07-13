@@ -15,6 +15,17 @@ This project is a Drug Recommendation System built using Python, Natural Languag
 - **Recurrent Neural Network (RNN)**
 - **Long Short-Term Memory (LSTM)**
 
+## Contributions
+
+    Fork the repository
+    Create a new branch (git checkout -b feature-branch)
+    Commit your changes (git commit -am 'Add new feature')
+    Push to the branch (git push origin feature-branch)
+    Create a new Pull Request
+
+
+
+
 ## Installation
 
 1. **Clone the repository**
@@ -27,5 +38,8 @@ This project is a Drug Recommendation System built using Python, Natural Languag
       jupyter notebook
 
 Open the Drug_Recommendation_System.ipynb notebook and run all cells to train the model and get recommendations.
+
+
+
 
 
