@@ -30,7 +30,7 @@ This project is a Drug Recommendation System built using Python, Natural Languag
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/drug-recommendation-system.git
+   git clone https://github.com/DB4558/drug-recommendation-system.git
    cd drug-recommendation-system
 2.**Open the Jupyter Notebook**
 
